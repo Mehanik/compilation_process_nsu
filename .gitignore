@@ -1,0 +1,10 @@
+*.[oa]
+*~
+*.pyd
+*.exe
+*.dll
+**/dep
+**/gen
+*.swp
+*.log
+*.bak*
